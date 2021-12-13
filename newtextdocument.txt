@@ -1,0 +1,116 @@
+    1  copy NUL .gitconfig
+    2  copy NUL .gitconfig
+    3  git 
+    4  hlebu@DESKTOP-G9963S4 MINGW64 ~
+    5  $ copy NUL .gitconfig
+    6  bash: copy: command not found
+    7  hlebu@DESKTOP-G9963S4 MINGW64 ~
+    8  $ copy NUL .gitconfig
+    9  bash: copy: command not found
+   10  hlebu@DESKTOP-G9963S4 MINGW64 ~
+   11  $ git
+   12  cd
+   13  c\user\hleb
+   14  cd ./Desktop/
+   15  cd ./Step_reposytory/
+   16  clean
+   17  git clean
+   18  c
+   19  help
+   20  complete clear
+   21  git clone https://github.com/HLEBU4EL/step.git
+   22  ls -1
+   23  cd ./step/
+   24  git status
+   25  git add test.txt
+   26  Git status
+   27  git commit
+   28  CD ./Desktop/Step_reposytory/step/
+   29  git cd
+   30  cd ./Desktop/
+   31  cd ./Step_reposytory/
+   32  cd ./step/
+   33  git status
+   34  git add  test.txt
+   35  git config core.autocrlf true
+   36  git add test.txt
+   37  git status
+   38  git commit config
+   39  git commit -m"My first fucking commit" test.txt
+   40  git push
+   41  cd ./Desktop/
+   42  cd ./Step_reposytory/
+   43  cd ./dark-anime-scenery-wallpaper-anime-wallpaper-669151880.jpg 
+   44  git status
+   45  help
+   46  git status
+   47  git
+   48  git add dark-anime-scenery-wallpaper-anime-wallpaper-669151880.jpg 
+   49  cd ./step/
+   50  git status
+   51  git add dark-anime-scenery-wallpaper-anime-wallpaper-669151880.jpg 
+   52  git ls
+   53  git show
+   54  git commit -m"ktrinka"
+   55  git show
+   56  git branch
+   57  git commit -m 
+   58  git commit -m'kartinka'
+   59  git add dark-anime-scenery-wallpaper-anime-wallpaper-669151880.jpg 
+   60  git show
+   61  git commit -m'kartoshka' 
+   62  git push
+   63  git get 
+   64  get
+   65  pwd
+   66  cd ./desctop
+   67  cd ./Desktop/
+   68  cd ./proect/
+   69  get add lab.rtf 
+   70  lb
+   71  lw
+   72  cd ./
+   73  cd ./
+   74  cd
+   75  ls
+   76  wpd
+   77  pwr
+   78  pwd
+   79  cd ./Desktop/
+   80  cd ./
+   81  cd ./Step_reposytory/
+   82  cd ./step/
+   83  git add lab.rtf 
+   84  git commit -m'asd'
+   85  git push
+   86  ls
+   87  git status
+   88  help
+   89  cat file
+   90  history
+   91  create 
+   92  bash'
+   93  cleare
+   94  bash'
+   95  clear
+   96  histoey
+   97  history
+   98  cd ..
+   99  cd ..
+  100  history
+  101  history > new text document.txt 
+  102  history 
+  103  histoey > newtextdocument
+  104  histoey > newtextdocument.txt
+  105  history > newtextdocument.txt'
+  106  history > newtextdocument.txt
+  107  histoey >> newtextdocument.txt
+  108  clear
+  109  ls
+  110  cd
+  111  pwd
+  112  cd ./Desktop/
+  113  history
+  114  history >> new
+  115  history >> newnew
+  116  history >> newtextdocument.txt

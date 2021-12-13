@@ -32,7 +32,12 @@
    32  cd ./step/
    33  git status
    34  git add  test.txt
-   35  git config core.autocrlf true
+   35  git config core.autocrlf true'
+   
+   
+   
+   kurva
+   
    36  git add test.txt
    37  git status
    38  git commit config

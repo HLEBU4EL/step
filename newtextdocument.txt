@@ -16,6 +16,14 @@
    16  clean
    17  git clean
    18  c
+
+
+
+
+
+
+
+ljkn
    19  help
    20  complete clear
    21  git clone https://github.com/HLEBU4EL/step.git
